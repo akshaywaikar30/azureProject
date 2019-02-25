@@ -1,5 +1,4 @@
-# <h3>Name: Akshay Waikar</h3>
-# <h3>ID: 1001373973</h3>
+
 import os
 from flask import Flask,redirect,render_template,request
 import pypyodbc
